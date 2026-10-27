@@ -55,3 +55,4 @@ end)
 
 gui.Parent = player:WaitForChild("PlayerGui")
 print("Marco Scripts loaded successfully!")
+ 
